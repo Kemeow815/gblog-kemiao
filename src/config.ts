@@ -1,37 +1,40 @@
 import type { NavigationLink, Site } from './types.ts'
 
 export const SITE: Site = {
-    author: 'Godruoyi',
-    url: 'https://godruoyi.com',
-    title: '连波的闲谈杂鱼',
-    description: 'Godruoyi\'s personal blog, I enjoy the process of building something using any technology stack',
+    author: '克喵爱吃卤面',
+    url: 'https://www.kemiaosw.top',
+    title: '喵落阁',
+    description: 'Ke Miao\'s personal blog, Certain things will always stand above the rest !',
     shortDescription: '',
 }
 
 export const NavigationLinks: NavigationLink[] = [
-    { name: 'Posts', url: '/posts' },
-    { name: 'Category', url: '/categories' },
-    { name: 'Timeline', url: '/timeline' },
-    { name: 'About', url: '/posts/about-godruoyi' },
-    { name: 'Friends', url: '/friends' },
+    { name: '博客', url: '/posts' },
+    { name: '分类', url: '/categories' },
+    { name: '时间线', url: '/timeline' },
+    { name: '关于', url: '/posts/about' },
+    { name: '友链', url: '/friends' },
 ]
 
 export const FooterLinks = [
     {
         section: 'Blog',
         links: [
-            { name: 'Posts', url: '/posts' },
-            { name: 'Timeline', url: '/timeline' },
-            { name: 'Categories', url: '/categories' },
-            { name: 'About Me', url: '/posts/about-godruoyi' },
+            { name: '博客', url: '/posts' },
+            { name: '时间线', url: '/timeline' },
+            { name: '分类', url: '/categories' },
+            { name: '关于我', url: '/posts/about' },
         ],
     },
     {
-        section: 'Other',
+        section: 'Contact',
         links: [
             { name: 'RSS', url: '/rss.xml' },
             { name: 'Site Map', url: '/sitemap-index.xml' },
-            { name: 'Twitter', url: 'https://x.com/godruoyi' },
+            { name: 'Twitter', url: 'https://x.com/kemiaosw' },
+            { name: 'Github', url: 'https://github.com/Kemeow815' },
+            { name: 'Telegram', url: 'https://t.me/KemiaoJun' },
+            { name: 'Mail', url: 'mailto:kemiaofx@163.com' },
         ],
     },
 ]
@@ -56,10 +59,10 @@ export const Settings = {
         // please visit https://giscus.app/ to learn how to configure it.
         // You can also check out this article: https://liruifengv.com/posts/add-comments-to-astro/.
         giscus: {
-            repo: 'godruoyi/gblog',
-            repoId: 'MDEwOlJlcG9zaXRvcnkxMjcyODI0NzA',
+            repo: 'Kemeow815/gblog-kemiao',
+            repoId: 'R_kgDOOZbgpA',
             category: 'Announcements',
-            categoryId: 'DIC_kwDOB5YtJs4CfZnX',
+            categoryId: 'DIC_kwDOOZbgpM4CpFjV',
             darkThem: 'noborder_gray',
             lightThem: 'light',
         },
