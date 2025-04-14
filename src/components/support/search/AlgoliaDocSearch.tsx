@@ -8,7 +8,7 @@ function AlgoliaDocSearch() {
         <DocSearch
             appId="64IMEC5R2V"
             indexName="gblog"
-            apiKey="7ac5c4186da007de510dea63b58d5973"
+            apiKey="6b2d146b29a701ba8ef6d617a0c1d4e1"
         />
     )
 }
