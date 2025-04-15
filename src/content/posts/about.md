@@ -71,13 +71,13 @@ tags: ["life"]
 - 网站维护
 - 生存需求（干饭优先🍚）
 - 减少鸽化概率（玄学加成）
-<div style="display: flex; gap: 20px; margin: 1rem 0;">
-  <div style="flex: 1;">
-    <strong>微信</strong><br>
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 1rem 0;">
+  <div>
+    <strong>支付宝</strong><br>
     <img src="https://s2.loli.net/2025/04/13/HYrnNFOKDZPSv4p.jpg" style="width: 50%; min-width: 200px;">
   </div>
-  <div style="flex: 1;">
-    <strong>支付宝</strong><br>
+  <div>
+    <strong>微信</strong><br>
     <img src="https://s2.loli.net/2025/04/13/HQ4lbFfJkpU2R9V.jpg" style="width: 50%; min-width: 200px;">
   </div>
 </div>
