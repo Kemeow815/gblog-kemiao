@@ -9,21 +9,36 @@ export const SITE: Site = {
 }
 
 export const NavigationLinks: NavigationLink[] = [
+<<<<<<< HEAD
     { name: '博客', url: '/posts/' },
     { name: '分类', url: '/categories/' },
     { name: '时间线', url: '/timeline/' },
     { name: '关于', url: '/posts/about/' },
     { name: '友链', url: '/friends/' },
+=======
+    { name: '博客', url: '/posts' },
+    { name: '分类', url: '/categories' },
+    { name: '时间线', url: '/timeline' },
+    { name: '关于', url: '/posts/about' },
+    { name: '友链', url: '/friends' },
+>>>>>>> 81e386e202d3c967b879e96b0239fcdff54079f8
 ]
 
 export const FooterLinks = [
     {
         section: 'Blog',
         links: [
+<<<<<<< HEAD
             { name: '博客', url: '/posts/' },
             { name: '时间线', url: '/timeline/' },
             { name: '分类', url: '/categories/' },
             { name: '关于我', url: '/posts/about/' },
+=======
+            { name: '博客', url: '/posts' },
+            { name: '时间线', url: '/timeline' },
+            { name: '分类', url: '/categories' },
+            { name: '关于我', url: '/posts/about' },
+>>>>>>> 81e386e202d3c967b879e96b0239fcdff54079f8
         ],
     },
     {
