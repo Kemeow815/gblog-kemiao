@@ -26,3 +26,10 @@
   name: 'Quentin Hau'
   description: "Life's tough, let's be romantic"
 
+- avatar: 'https://gravatar.wallleap.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256'
+  social:
+    github: 'wallleap'
+    blog: 'https://myblog.wallleap.cn/'
+  title: 'Wallleap'
+  name: 'Wallleap'
+  description: "Luwang's blog"

@@ -5,115 +5,81 @@ pubDate: "2025-04-14 21:39:48"
 category: "life"
 banner: "https://s2.loli.net/2025/04/14/RhVAOgmXEGB2Sze.jpg"
 tags: ["life"]
+selected: false
 ---
 
-## 我？
+### Hello
 
-**克喵爱吃卤面**  
-南京大学自动化技术与应用专业（机器人方向）大二在读
-
-### 🕰 成长时间轴
-
-#### 2023
-
-- **🌱 年初**  
-  ├─ 初次接触「小绿书」  
-  └─ 开启技术内容分享与学习之路
-- **❄️ 年末**  
-  ├─ 加入 Telegram 技术社群  
-  ├─ 关注资源分享渠道：  
-  │  ├️ [@txwl666 (资源分享)](https://t.me/txwl666)  
-  │  └️ [@haoruanfenxiang (好软分享)](https://t.me/haoruanfenxiang)  
-  └─ 建立技术资源获取网络
-
-#### 2024
-
-- **❄️ 年末**  
-  ├─ 开启个人博客实验：  
-  │  ├─ 首版博客源码：[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)  
-  │  ├─ 框架方案：[Hexo](https://hexo.io/zh-cn/) + [Butterfly](https://butterfly.js.org/)  
-  │  └─ 部署托管平台：[Vercel](https://vercel.com/)
-
-#### 2025
-
-- **🌸 四月**  
-  └─ 技术升级：使用 astro 博客  
-  └─ 当前博客版本上线
-**🎮 单机游戏爱好者**  
-饥荒，启动！杰出SM！
-
----
-
-## 🏷️ Tags
-
-`大学牲｜伪二次元｜游戏党｜瞎折腾｜搞事情｜日常生产bug`
-
----
-
-## 📍 找我？
-
-- **社交平台**  
-  ▸ QQ：3149261770（主用）  
-  ▸ 微信：仅限现实熟人  
-  ▸ Telegram：  
-   ├─ [频道](https://t.me/kemiaofx_me)  
-   ├─ [群组](https://t.me/kemiao_me)  
-   └─ 个人账号 [@Kemiaojun](https://t.me/Kemiaojun)  
-   📎 建议通过 [@KemeowBot](https://t.me/KemeowBot) 联系
-- **📮 邮箱**  
-  ▸ 优先域名邮箱：<kemiao@kmblog.icu>  
-  ▸ 备用163邮箱：<kemiaofx@163.com>
----
-
-## 🍰 投食
-
-学生党求投喂！资金将用于：
-- 网站维护
-- 生存需求（干饭优先🍚）
-- 减少鸽化概率（玄学加成）
-<div style="display: flex; flex-direction: column; gap: 20px; margin: 1rem 0;">
-  <div>
-    <strong>支付宝</strong><br>
-    <img src="https://s2.loli.net/2025/04/13/HYrnNFOKDZPSv4p.jpg" style="width: 50%; min-width: 200px;">
-  </div>
-  <div>
-    <strong>微信</strong><br>
-    <img src="https://s2.loli.net/2025/04/13/HQ4lbFfJkpU2R9V.jpg" style="width: 50%; min-width: 200px;">
-  </div>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blog-v3.kemeow.top/">
+    <img 
+      src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+      alt="GIF Link" 
+      height="275" 
+      style="max-width: 100%; height: auto; display: inline-block;"
+    />
+  </a>
 </div>
 
-<<<<<<< HEAD
+- 🔭 I’m currently studying in Nanjing
+- 🌱 Current learning content: Automation Technology and Applications, front-end (sub), etc
+- 💬 You can ask me some questions about resources。
+- 📫 How to contact my email or official account: kemiaofx@163.com
+- 🍉 Active Community：[BLOG](https://blog-v3.kemeow.top) | [Telegram](https://t.me/KemiaoJun) |  [X](https://x.com/kemiaosw/) 
 
-=======
->>>>>>> 81e386e202d3c967b879e96b0239fcdff54079f8
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20KeMiao%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+About+page!;I+am+KeMiao+obsessed+with+programming!" />
+</p>
+
+### 👋 个人简介 
+---
+[个人主页](https://kemiao.online) | [博客站点](https://blog-v3.kemeow.top)
+
+大家好！这里是克喵爱吃卤面的博客。致力于分享资源、生活日记和踩坑教程，代码水准一般，自动化专业大二学生，现于南京就读，普通的大学牛马。
+
+### 关于我
+
 ---
 
-## ©️ 版权声明
+- 🖥 **个性:** 开朗活泼，热爱学习，勤奋工作
+- 🖥 **技能:** 自动化技术与应用
+- 🖥 **个人信息:**
+    - 🧑 **姓名:** mcy
+    - 🏫 **学校:** 南京工业职业技术大学，[官方网站](https://www.niit.edu.cn/)
+    - 🏛️ **年级:** 大二
+    - 👷 **职业:** 学生
+- 🖥 **兴趣:** 计算机，单机游戏，电子产品，数码产品，资源分享
+- 🖥 **梦想:** 咸鱼算不算？
 
-1. 资源分享
-   - 默认采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议
-   - **转载必须**：
-     ▸ 提前留言告知转载地址
-     ▸ 保留原文链接
-     ▸ 禁止转载至非法/色情网站
-     ▸ 收到删除请求需立即处理
-2. 代码协议
-   - 按各仓库许可证执行
-   - 未注明协议可留言询问
-3. 商业使用
-   - 禁止未经授权的商业用途
-主要优化点：
-时间线重构：使用层级列表+特殊符号模拟时间线效果
-图片布局：通过flex布局实现并排显示，图片宽度设为50%
-视觉增强：
-增加章节分隔线
-使用特殊符号（▸/📎/🎮）提升可读性
-关键信息使用粗体/斜体强调
-结构化调整：
-版权声明改用数字列表
-联系方式使用分层展示
-<<<<<<< HEAD
-统一使用现代icon符号（📮/🏷️等）
-=======
-统一使用现代icon符号（📮/🏷️等）
->>>>>>> 81e386e202d3c967b879e96b0239fcdff54079f8
+---
+
+### 📈 我的GitHub数据
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kemeow815" alt="GitHub Stats" />
+</div>
+
+<p align="center">
+  <a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kemeow815&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Activity">
+  </a>
+</p>
+
+<div align="center">
+  <img 
+    src="https://github-immortality.vercel.app/api?username=Kemeow815" 
+    alt="修仙系列统计卡片" 
+    style="max-width: 100%; height: auto;" 
+  />
+</div>
+
+---
+
+### 赞助
+
+- 微信公众号：[克喵的小站](https://wechat.kemeow.top/)
+- 赞助页面: [点我](https://donate.152531.xyz/)
