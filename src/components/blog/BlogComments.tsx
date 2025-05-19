@@ -56,7 +56,7 @@ function BlogComments() {
                             categoryId={commentSetting.categoryId}
                             mapping="title"
                             reactionsEnabled="1"
-                            emitMetadata="0"
+                            emitMetadata="1"
                             inputPosition="top"
                             lang="zh-CN"
                             loading="lazy"
