@@ -1,4 +1,4 @@
 ---
-title: 'MySQL'
-description: 'MySQL is an open-source relational database management system (RDBMS).'
+title: 'technology'
+description: '记录克喵分享的踩坑教程'
 ---
